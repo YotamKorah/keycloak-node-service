@@ -1,0 +1,8 @@
+{
+  "realm": "quickstart",
+  "auth-server-url": "https://kc.apps.sandbox-m3.1530.p1.openshiftapps.com/",
+  "ssl-required": "external",
+  "resource": "node-service",
+  "public-client": true,
+  "confidential-port": 0
+}
